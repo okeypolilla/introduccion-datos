@@ -1,6 +1,5 @@
 function iniciar()
 {
-alert("pepe");
 var num=document.getElementById("numero").value;
 var x=document.getElementById("m1");
 var j=document.getElementById("m2");
